@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b0cd6d8a66e991a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae44ff0f0740f06b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0cf107e14b2451d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13531a84ec2f05a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "533dfec647e165a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9945cc3d53a26b02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f9650748e4b1b4e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ff49ce0ba57b4cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "73ebd7064121b1b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5df9911774ac0a68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4933b836300116",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.2 Why is Testing Necessary?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.2 Why is Testing Necessary?"
+            }
+          },
+          {
+            "id": "07e55d3ecc75c8fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Glossary/Coverage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Coverage"
+            }
+          },
+          {
+            "id": "13da04dbee4508ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5de3d04e108cbc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0bcec12aff128e4c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d0cf107e14b2451d",
+  "lastOpenFiles": [
+    "4.5. Collaboration-based Test Approaches.md",
+    "4.4. Experience-based Test Techniques.md",
+    "4.3. White-Box Test Techniques.md",
+    "4.2 Black-Box Test Techniques.md",
+    "4.1 Test Techniques Overview.md",
+    "Sources/O'Regan 2019.md",
+    "Sources/Myers 2011.md",
+    "Sources/Craig 2002.md",
+    "Sources/Beizer 1990.md",
+    "1.4 Test Activities, Testware and Test Roles.md",
+    "1.3 Testing Principles.md",
+    "1.2 Why is Testing Necessary?.md",
+    "1.1 What is Testing?.md",
+    "Sources/Ammann 2016.md",
+    "Sources/Copeland 2004.md",
+    "Sources/Koomen 2006.md",
+    "Sources/Jorgensen 2014.md",
+    "Glossary/Test Technique.md",
+    "Sources/Forgacs 2019.md",
+    "Sources/ISO IEC IEEE 29119-4 standard.md",
+    "Sources",
+    "4.0 Test Analysis and Design.md",
+    "1.5 Essential Skills and Good Practices in Testing.md",
+    "Glossary/Risk Monitoring.md",
+    "Glossary/White-Box Test Technique.md",
+    "Glossary/Testing Quadrants.md",
+    "Glossary/Test Strategy.md",
+    "Glossary"
+  ]
+}
