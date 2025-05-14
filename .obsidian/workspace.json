@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.1.  Test Techniques Overview.md",
-                "mode": "preview",
+                "file": "4.2.  Black-Box Test Techniques.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4.1.  Test Techniques Overview"
+              "title": "4.2.  Black-Box Test Techniques"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "0fe1a405959a343a",
   "lastOpenFiles": [
+    "4.1.  Test Techniques Overview.md",
     "4.0.  Test Analysis and Design.md",
     "3.2.  Feedback and Review Process.md",
     "3.1.  Static Testing Basics.md",
@@ -206,7 +207,6 @@
     "Templates/Glossary Term.md",
     "Templates/Source Book.md",
     "Templates/Source Article.md",
-    "Glossary.md",
     "Templates",
     "Sources",
     "Glossary"
