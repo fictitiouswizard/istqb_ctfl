@@ -4,39 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "853b23e39de6a7a5",
+        "id": "1f0bbbb3c3ec0a4b",
         "type": "tabs",
         "children": [
           {
-            "id": "d4046d5015d1059d",
+            "id": "c05a33e3502eb55c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0.  Testing Throughout the Software Development Lifecycle.md",
+                "file": "Templates/Source Wepage.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2.0.  Testing Throughout the Software Development Lifecycle"
+              "title": "Source Wepage"
             }
           },
           {
-            "id": "4918ca8c3dda8cb3",
+            "id": "77feeffee171a852",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1.  Static Testing Basics.md",
+                "file": "Sources/An Analysis of Errors and Their Causes in System Programs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3.1.  Static Testing Basics"
+              "title": "An Analysis of Errors and Their Causes in System Programs"
+            }
+          },
+          {
+            "id": "1205577b0e6dd829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/The logic of computer programming.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The logic of computer programming"
+            }
+          },
+          {
+            "id": "cba83817e62eba35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Exploration through Example.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Exploration through Example"
+            }
+          },
+          {
+            "id": "f214b247ad140c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Enhancing the explanatory power of usability heuristics.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Enhancing the explanatory power of usability heuristics"
+            }
+          },
+          {
+            "id": "2b58804263ce2865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Cognitive biases in software quality and testing.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cognitive biases in software quality and testing"
+            }
+          },
+          {
+            "id": "e1bb32e5347374a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.1.  Testing in the Context of a Software Development Lifecycle (SDLC).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2.1.  Testing in the Context of a Software Development Lifecycle (SDLC)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -93,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "73ebd7064121b1b8",
@@ -181,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,34 +264,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4918ca8c3dda8cb3",
+  "active": "e1bb32e5347374a2",
   "lastOpenFiles": [
-    "3.0.  Static Testing.md",
-    "3.1.  Static Testing Basics.md",
-    "2.3.  Maintenance Testing.md",
     "2.0.  Testing Throughout the Software Development Lifecycle.md",
     "1.5.  Essential Skills and Good Practices in Testing.md",
-    "1.0.  Fundamentals of Testing.md",
-    "2.1.  Testing in the Context of a Software Development Lifecycle (SDLC).md",
-    "2.2.  Test Levels and Test Types.md",
-    "6.0.  Test Tools.md",
-    "5.0.  Managing the Test Activities.md",
-    "4.5.  Collaboration-based Test Approaches.md",
-    "4.4.  Experience-based Test Techniques.md",
-    "4.3.  White-Box Test Techniques.md",
-    "4.2.  Black-Box Test Techniques.md",
-    "4.1.  Test Techniques Overview.md",
-    "4.0.  Test Analysis and Design.md",
-    "1.1.  What is Testing?.md",
-    "1.2.  Why is Testing Necessary?.md",
-    "1.3.  Testing Principles.md",
     "1.4.  Test Activities, Testware and Test Roles.md",
+    "1.3.  Testing Principles.md",
+    "1.2.  Why is Testing Necessary?.md",
+    "1.1.  What is Testing?.md",
+    "Untitled.md",
+    "1.0.  Fundamentals of Testing.md",
+    "Templates/Glossary Term.md",
+    "Templates/Source Wepage.md",
+    "Templates/Source Book.md",
+    "Templates/Source Article.md",
     "Glossary.md",
-    "Glossary/Test Planning 1.md",
-    "Glossary/Test Planning.md",
-    "Glossary/Test Monitoring 1.md",
-    "Glossary/Test Monitoring.md",
-    "Glossary/Test Control.md",
+    "Glossary/Acceptance Test-Driven Development.md",
+    "Glossary/Acceptance Criteria.md",
+    "Sources/An Analysis of Errors and Their Causes in System Programs.md",
+    "Sources/INVEST in Good Stories and SMART Tasks.md",
+    "Sources/Cognitive biases in software quality and testing.md",
+    "Sources/Enhancing the explanatory power of usability heuristics.md",
+    "Sources/Exploration through Example.md",
+    "Sources/The logic of computer programming.md",
+    "Sources/A survey of software inspection checklists.md",
+    "Sources/Untitled.md",
+    "Sources/ISO-IEC-IEEE 14754-2022.md",
+    "Sources/ATDD by Example.md",
+    "Sources/The DevOps Handbook.md",
+    "Templates",
     "Sources",
     "Glossary"
   ]
