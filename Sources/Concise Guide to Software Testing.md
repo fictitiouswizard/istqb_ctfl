@@ -8,6 +8,6 @@
 	<dd>2019</dd>
 	<dt><strong>Publisher</strong></dt>
 	<dd>Springer Nature Switzerland</dd>
-	<dt><strong>Publisher Location</strong></dt>
-	<dd></dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/Concise-Software-Testing-Undergraduate-Computer/dp/303028493X">Amazon</a></dd>
 </dl>

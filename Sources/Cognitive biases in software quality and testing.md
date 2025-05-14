@@ -13,6 +13,6 @@
 	<dd>823-826</dd>
 	<dt><strong>Publisher</strong></dt>
 	<dd>ACM</dd>
-	<dt><strong>Publisher Location</strong></dt>
-	<dd></dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://dl.acm.org/doi/abs/10.1145/2889160.2889265">ACM</a></dd>
 </dl>

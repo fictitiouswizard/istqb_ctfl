@@ -7,7 +7,9 @@
 	<dt><strong>Year</strong></dt>
 	<dd>2011</dd>
 	<dt><strong>Publisher</strong></dt>
-	<dd>Pearson Educcation</dd>
+	<dd>Pearson Education</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>Boston, MA</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154">Amazon</a></dd>
 </dl>

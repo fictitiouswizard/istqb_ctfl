@@ -1,6 +1,12 @@
 
-Name:  Software Engineering techniques.  Report on a conference sponsored by the NATO Science Committee, Rome, Italy, 27-31 October 1969
-Editor(s):  Buxton, J.N and Randell B.
-Year:  1970
-Page: 16
-Publisher:
+<dl>
+	<dt><strong>Name</strong></dt>
+	<dd>Software Engineering techniques.  Report on a conference sponsored by the NATO Science Committee, Rome, Italy, 27-31 October 1969</dd>
+	<dt><strong>Editors(s)</strong></dt>
+	<dd>Buxton, J.N</dd>
+	<dd>Randell B.</dd>
+	<dt><strong>Year</strong></dt>
+	<dd>1970</dd>
+	<dt><strong>Pages</strong></dt>
+	<dd>16</dd>
+</dl>

@@ -1,5 +1,4 @@
 
-
 <dl>
 	<dt><strong>Name</strong></dt>
 	<dd>The Certified Software Quality Engineer Handbook</dd>

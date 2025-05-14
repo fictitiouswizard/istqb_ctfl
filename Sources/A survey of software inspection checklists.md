@@ -12,6 +12,6 @@
 	<dd>24(1)</dd>
 	<dt><strong>Pages</strong></dt>
 	<dd>82-89</dd>
-	<dt><strong>Publisher Location</strong></dt>
-	<dd></dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://dl.acm.org/doi/pdf/10.1145/308769.308798">ACM SIGSOFT</a></dd>
 </dl>
