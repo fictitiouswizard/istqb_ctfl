@@ -8,6 +8,6 @@
 	<dd>2001</dd>
 	<dt><strong>Publisher</strong></dt>
 	<dd>Addison-Wesley Professional</dd>
-	<dt><strong>Publisher Location</strong></dt>
-	<dd></dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/Peer-Reviews-Software-Practical-Guide/dp/0201734850">Amazon</a></dd>
 </dl>

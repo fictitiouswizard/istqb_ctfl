@@ -10,5 +10,7 @@
 	<dd>Metropolitan Books</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>New York, NY</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000">Amazon</a></dd>
 </dl>
 

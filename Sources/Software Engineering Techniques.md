@@ -9,4 +9,6 @@
 	<dd>1970</dd>
 	<dt><strong>Pages</strong></dt>
 	<dd>16</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1969.PDF"></a></dd>
 </dl>

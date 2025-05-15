@@ -10,6 +10,8 @@
 	<dd>2011</dd>
 	<dt><strong>Publisher</strong></dt>
 	<dd>Wiley</dd>
-	<dt><strong>Publisher Location</strong></dt>
-	<dd></dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd>
+	<a href="https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124">Amazon</a>
+	</dd>
 </dl>

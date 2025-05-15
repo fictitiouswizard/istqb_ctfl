@@ -10,4 +10,6 @@
 	<dd>UTN Publishers</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>The Netherlands</dd>
+	<dt><string>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/PRISMA-Approach-Erik-van-Veenendaal/dp/9490986070">Amazon</a></dd>
 </dl>

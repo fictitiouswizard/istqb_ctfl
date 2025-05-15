@@ -10,4 +10,6 @@
 	<dd>The Pragmatic Bookshelf</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>Raleigh, NC</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379">Amazon</a></dd>
 </dl>

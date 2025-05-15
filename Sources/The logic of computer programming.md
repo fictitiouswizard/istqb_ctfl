@@ -13,6 +13,6 @@
 	<dd>4(3)</dd>
 	<dt><strong>Pages</strong></dt>
 	<dd>199-229</dd>
-	<dt><strong>Publisher Location</strong></dt>
-	<dd></dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.computer.org/csdl/journal/ts/1978/03/01702522/13rRUwfZC1T">computer.org</a></dd>
 </dl>

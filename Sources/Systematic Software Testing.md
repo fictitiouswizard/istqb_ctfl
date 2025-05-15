@@ -11,4 +11,6 @@
 	<dd>Artech House</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>Norwood MA</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/exec/obidos/ASIN/1580535089/acmorg-20">Amazon</a></dd>
 </dl>

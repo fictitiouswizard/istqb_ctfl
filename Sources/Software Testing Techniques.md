@@ -10,4 +10,6 @@
 	<dd>Van Nostrand Reinhold</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>Boston MA</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/Software-Testing-Techniques-Boris-Beizer/dp/1850328803"</a></dd>
 </dl>

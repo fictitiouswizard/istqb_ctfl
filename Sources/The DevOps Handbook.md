@@ -10,7 +10,9 @@
 	<dt><strong>Year</strong></dt>
 	<dd>2016</dd>
 	<dt><strong>Publisher</strong></dt>
-	<dd></dd>
+	<dd>IT Revolution Press</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>Portland, OR</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002">Amazon</a></dd>
 </dl>

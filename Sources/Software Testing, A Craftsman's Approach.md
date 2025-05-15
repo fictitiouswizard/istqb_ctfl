@@ -10,4 +10,6 @@
 	<dd>CRC Press</dd>
 	<dt><strong>Publisher Location</strong></dt>
 	<dd>Boca Raton, FL</dd>
+	<dt><strong>Other Links</strong></dt>
+	<dd><a href="https://www.amazon.com/Software-Testing-Craftsmans-Approach-Fourth/dp/1466560681">Amazon</a></dd>
 </dl>
