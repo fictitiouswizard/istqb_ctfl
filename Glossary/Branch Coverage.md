@@ -3,9 +3,7 @@ alias:
 tags:
   - vocabulary
 type: term
-definition: The coverge of branches in a control flow graph.
+definition: The coverage of branches in a control flow graph.
 ---
-> [!note]- File Info
-> **Created**:  `=dateformat(this.file.ctime, "DDDD, HH:mm")`
-> **Modified**: `=dateformat(this.file.mtime, "DDDD, HH:mm")` 
-> **Location**: `=this.file.path`
+
+The coverage of branches in a control flow graph.

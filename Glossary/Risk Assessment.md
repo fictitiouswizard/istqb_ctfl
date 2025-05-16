@@ -3,9 +3,7 @@ alias:
 tags:
   - vocabulary
 type: term
-definition: The process ot examine identified risks and determine the risk level.
+definition: The process of examine identified risks and determine the risk level.
 ---
-> [!note]- File Info
-> **Created**:  `=dateformat(this.file.ctime, "DDDD, HH:mm")`
-> **Modified**: `=dateformat(this.file.mtime, "DDDD, HH:mm")` 
-> **Location**: `=this.file.path`
+
+The process of examine identified risks and determine the risk level.

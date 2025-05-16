@@ -3,9 +3,7 @@ alias:
 tags:
   - vocabulary
 type: term
-definition: A specific instatiation of a test process
+definition: A specific instantiation of a test process
 ---
-> [!note]- File Info
-> **Created**:  `=dateformat(this.file.ctime, "DDDD, HH:mm")`
-> **Modified**: `=dateformat(this.file.mtime, "DDDD, HH:mm")` 
-> **Location**: `=this.file.path`
+
+A specific instantiation of a test process

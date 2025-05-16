@@ -5,7 +5,5 @@ tags:
 type: term
 definition: Testing based on an analysis of the internal structure of the component or system.
 ---
-> [!note]- File Info
-> **Created**:  `=dateformat(this.file.ctime, "DDDD, HH:mm")`
-> **Modified**: `=dateformat(this.file.mtime, "DDDD, HH:mm")` 
-> **Location**: `=this.file.path`
+
+Testing based on an analysis of the internal structure of the component or system.

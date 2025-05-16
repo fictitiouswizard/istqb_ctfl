@@ -5,7 +5,5 @@ tags:
 type: term
 definition: An approach to testing that focuses on defect avoidance by collaborating among stakeholders.
 ---
-> [!note]- File Info
-> **Created**:  `=dateformat(this.file.ctime, "DDDD, HH:mm")`
-> **Modified**: `=dateformat(this.file.mtime, "DDDD, HH:mm")` 
-> **Location**: `=this.file.path`
+
+An approach to testing that focuses on defect avoidance by collaborating among stakeholders.

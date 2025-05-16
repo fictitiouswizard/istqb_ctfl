@@ -5,7 +5,5 @@ tags:
 type: term
 definition: The set of conditions for officially completing a defined task.
 ---
-> [!note]- File Info
-> **Created**:  `=dateformat(this.file.ctime, "DDDD, HH:mm")`
-> **Modified**: `=dateformat(this.file.mtime, "DDDD, HH:mm")` 
-> **Location**: `=this.file.path`
+
+The set of conditions for officially completing a defined task.
