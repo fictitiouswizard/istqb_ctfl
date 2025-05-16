@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Acronyms/SDLC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "SDLC"
             }
           }
         ]
@@ -180,15 +180,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "16d93c3f4d3c097e",
+  "active": "9945cc3d53a26b02",
   "lastOpenFiles": [
-    "1.0.  Fundamentals of Testing.md",
-    "4.1.  Test Techniques Overview.md",
-    "4.0.  Test Analysis and Design.md",
+    "index.md",
+    "6.1.  Tool Support for testing.md",
+    "5.5.  Defect Management.md",
+    "5.2.  Risk Management.md",
+    "5.1.  Test Planning.md",
+    "4.5.  Collaboration-based Test Approaches.md",
     "3.2.  Feedback and Review Process.md",
     "3.1.  Static Testing Basics.md",
-    "3.0.  Static Testing.md",
-    "2.3.  Maintenance Testing.md",
     "2.2.  Test Levels and Test Types.md",
     "2.1.  Testing in the Context of a Software Development Lifecycle (SDLC).md",
     "2.0.  Testing Throughout the Software Development Lifecycle.md",
@@ -197,17 +198,16 @@
     "1.3.  Testing Principles.md",
     "1.2.  Why is Testing Necessary?.md",
     "1.1.  What is Testing?.md",
+    "1.0.  Fundamentals of Testing.md",
+    "4.1.  Test Techniques Overview.md",
+    "4.0.  Test Analysis and Design.md",
+    "3.0.  Static Testing.md",
+    "2.3.  Maintenance Testing.md",
     "6.2.  Benefits and Risks of Test Automation.md",
-    "6.1.  Tool Support for testing.md",
     "6.0.  Test Tools.md",
     "Acronyms/BVA.md",
     "Acronyms/ATDD.md",
-    "5.5.  Defect Management.md",
     "5.4.  Configuration Management.md",
-    "Acronyms/CM.md",
-    "5.2.  Risk Management.md",
-    "4.2.  Black-Box Test Techniques.md",
-    "5.1.  Test Planning.md",
     "Pasted image 20250516094805.png",
     "Acronyms",
     "lib/media/6155340132a851f6089e.svg",
