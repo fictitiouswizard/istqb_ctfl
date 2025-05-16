@@ -1,4 +1,7 @@
 {
   "livePreview": false,
-  "vimMode": true
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden"
 }

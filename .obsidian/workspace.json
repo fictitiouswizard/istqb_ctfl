@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acronyms/SDLC.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SDLC"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 302.5
   },
   "right": {
     "id": "73ebd7064121b1b8",
@@ -180,34 +180,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9945cc3d53a26b02",
+  "active": "16d93c3f4d3c097e",
   "lastOpenFiles": [
-    "index.md",
-    "6.1.  Tool Support for testing.md",
     "5.5.  Defect Management.md",
+    "6.0.  Test Tools.md",
+    "6.1.  Tool Support for testing.md",
+    "6.2.  Benefits and Risks of Test Automation.md",
+    "index.md",
+    "5.4.  Configuration Management.md",
+    "5.3.  Test Monitoring, Test Control and Test Completion.md",
     "5.2.  Risk Management.md",
     "5.1.  Test Planning.md",
+    "5.0.  Managing the Test Activities.md",
     "4.5.  Collaboration-based Test Approaches.md",
+    "4.4.  Experience-based Test Techniques.md",
+    "4.3.  White-Box Test Techniques.md",
+    "4.2.  Black-Box Test Techniques.md",
+    "4.1.  Test Techniques Overview.md",
+    "4.0.  Test Analysis and Design.md",
     "3.2.  Feedback and Review Process.md",
     "3.1.  Static Testing Basics.md",
-    "2.2.  Test Levels and Test Types.md",
+    "3.0.  Static Testing.md",
+    "2.3.  Maintenance Testing.md",
     "2.1.  Testing in the Context of a Software Development Lifecycle (SDLC).md",
+    "2.2.  Test Levels and Test Types.md",
+    "1.3.  Testing Principles.md",
     "2.0.  Testing Throughout the Software Development Lifecycle.md",
     "1.5.  Essential Skills and Good Practices in Testing.md",
     "1.4.  Test Activities, Testware and Test Roles.md",
-    "1.3.  Testing Principles.md",
-    "1.2.  Why is Testing Necessary?.md",
-    "1.1.  What is Testing?.md",
-    "1.0.  Fundamentals of Testing.md",
-    "4.1.  Test Techniques Overview.md",
-    "4.0.  Test Analysis and Design.md",
-    "3.0.  Static Testing.md",
-    "2.3.  Maintenance Testing.md",
-    "6.2.  Benefits and Risks of Test Automation.md",
-    "6.0.  Test Tools.md",
-    "Acronyms/BVA.md",
-    "Acronyms/ATDD.md",
-    "5.4.  Configuration Management.md",
     "Pasted image 20250516094805.png",
     "Acronyms",
     "lib/media/6155340132a851f6089e.svg",
